@@ -1,0 +1,6 @@
+{
+  "name": "Smak Italy",
+  "description": "Autentyczna włoska i sardyńska trattoria i pizzeria w Poznaniu. Pizza metrowa, tradycyjne makarony, risotto i unikatowe dania z Sardynii.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
